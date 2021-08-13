@@ -6,3 +6,7 @@ My name is Bryce Kapp. I like to make alot of stupid jokes. The reason that I ta
 
 Hobbies
 -
+My hobbies include
+- archery
+- swimming
+- video games
