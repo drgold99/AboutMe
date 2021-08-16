@@ -13,8 +13,8 @@ My hobbies include
 - swimming
 - video games
 
-<img src="IMG_3634.jpg" height="500px" width="500px">
-<img src="IMG_8580.jpg" height="500px" width="500px">
+<kbd><img src="IMG_3634.jpg" height="500px" width="500px"></kbd>
+<kbd><img src="IMG_8580.jpg" height="500px" width="500px"></kbd>
 
 My night time routine include
 1. Eating.
@@ -29,3 +29,9 @@ My night time routine include
 
 ## Persons of Interest
 [Gottfried Wilhelm Leibniz][1]<br>
+
+## Favorite Terms
+|Terms| Definitions|
+|:-|
+|intriguing| arousing one's curiosity or interest; fascinating|
+|explosion| big boom|
