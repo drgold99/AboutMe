@@ -10,3 +10,10 @@ My hobbies include
 - archery
 - swimming
 - video games
+
+My night time routine include
+1. Eating.
+2. Get clolths ready for tomorrow.
+3. Then I go to sleep at 11.
+
+## My Philosophy
