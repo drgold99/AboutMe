@@ -17,3 +17,9 @@ My night time routine include
 3. Then I go to sleep at 11.
 
 ## My Philosophy
+*Take every information with a grain of salt.*
+
+## Favorite Quotes
+
+## My Favorite website
+[stackoverflow](https://stackoverflow.com/)
