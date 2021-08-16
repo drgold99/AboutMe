@@ -13,8 +13,8 @@ My hobbies include
 - swimming
 - video games
 
-![IMG_3634](https://user-images.githubusercontent.com/71509807/129591363-0be27b47-dd34-4de8-88ca-afdec7038226.jpg)
-![IMG_8580](https://user-images.githubusercontent.com/71509807/129591648-87ba0fa2-3940-4582-ba28-f11b89d2bf18.jpg)
+<img src="file path" height="000px" width="000px">
+<img src="file path" height="000px" width="000px">
 
 My night time routine include
 1. Eating.
@@ -23,8 +23,6 @@ My night time routine include
 
 ## My Philosophy
 *Take every information with a grain of salt.*
-
-## Favorite Quotes
 
 ## My Favorite website
 [stackoverflow](https://stackoverflow.com/)
