@@ -32,6 +32,6 @@ My night time routine include
 
 ## Favorite Terms
 |Terms| Definitions|
-|:-|
+|:-| ----|
 |intriguing| arousing one's curiosity or interest; fascinating|
 |explosion| big boom|
