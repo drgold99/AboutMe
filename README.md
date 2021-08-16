@@ -13,7 +13,7 @@ My hobbies include
 - swimming
 - video games
 
-<img src="file path" height="000px" width="000px">
+<img src="IMG_3634.jpg" height="100px" width="100px">
 <img src="file path" height="000px" width="000px">
 
 My night time routine include
