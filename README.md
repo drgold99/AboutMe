@@ -4,6 +4,8 @@
 ## Summary
 My name is Bryce Kapp. I like to make alot of stupid jokes. The reason that I take this class is that I had always been interested in how people make apps and games.
 
+[1]: https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz
+
 Hobbies
 -
 My hobbies include
@@ -23,3 +25,6 @@ My night time routine include
 
 ## My Favorite website
 [stackoverflow](https://stackoverflow.com/)
+
+## Persons of Interest
+[Gottfried Wilhelm Leibniz][1]
